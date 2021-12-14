@@ -26,4 +26,6 @@
 
 <br/>
 
-![Shaheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=vthz&show_icons=true&theme=monokai)
+![Shaheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=vthz&show_icons=true&theme=buefy&border_color=FF4040&title_color=FF4040)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vthz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
