@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Arduino based IOT project(final deployment AWS EC2 instance)
 - 🌱 I’m currently learning Cloud Computing and Machine Learning
 - ⚡ Fun fact: I make projects just for FUN!
-- 🤖 Very much interested in Robotics.
+- 🤖 Very much interested in Robotics and ML.
 ---
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/vthz/vthz/blob/main/static_content/Linkedin_logo.png" />]( https://www.linkedin.com/in/shaheen-naiyer-27496b178/)
@@ -29,3 +29,8 @@
 ![Shaheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=vthz&show_icons=true&theme=buefy&border_color=FF4040&title_color=FF4040)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vthz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+### My Achievement, Journey...and many things 
+-  https://github.com/vthz/journey-page
