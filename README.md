@@ -1,9 +1,9 @@
 ### Hi there, It's me Shaheen Naiyer 👋
 
-- 🔭 I’m currently working on Arduino based IOT project(final deployment AWS EC2 instance)
+- 🔭 I’m currently working on "Interactive obstacle based game which can be controlled from Hand gestures.(mediapipe, OpenCv and maybe TensorFlow)". [20 July 2022]
 - 🌱 I’m currently learning Cloud Computing and Machine Learning
 - ⚡ Fun fact: I make projects just for FUN!
-- 🤖 Very much interested in Robotics and ML.
+- 🤖 Very interested in Robotics and ML.
 ---
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/vthz/vthz/blob/main/static_content/Linkedin_logo.png" />]( https://www.linkedin.com/in/shaheen-naiyer-27496b178/)
@@ -34,3 +34,6 @@
 
 ### My Achievement, Journey...and many things 
 -  https://github.com/vthz/journey-page
+
+### GitHub contributions
+-  https://github.com/vthz/Sorting-Algorithms-Visualizer
