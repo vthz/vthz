@@ -81,15 +81,15 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=vthz&show_icons=true&theme=dark&bg_color=0b0e14&title_color=00e5ff&text_color=e2e8f0&icon_color=00e5ff&border_color=1e293b" width="100%" alt="Shaheen's GitHub stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=vthz&show_icons=true&theme=dark&bg_color=0b0e14&title_color=00e5ff&text_color=e2e8f0&icon_color=00e5ff&border_color=1e293b" width="100%" alt="Shaheen's GitHub stats" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vthz&theme=dark&background=0b0e14&title=00e5ff&currStreakNum=00e5ff&fire=00e5ff&ring=00e5ff&currStreakLabel=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&dates=8b949e&stroke=1e293b" width="100%" alt="Streak Stats" />
+      <img src="https://streak-stats.demolab.com/?user=vthz&theme=dark&background=0b0e14&title=00e5ff&currStreakNum=00e5ff&fire=00e5ff&ring=00e5ff&currStreakLabel=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&dates=8b949e&stroke=1e293b" width="100%" alt="Streak Stats" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vthz&layout=compact&theme=dark&bg_color=0b0e14&title_color=00e5ff&text_color=e2e8f0&border_color=1e293b" width="100%" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vthz&layout=compact&theme=dark&bg_color=0b0e14&title_color=00e5ff&text_color=e2e8f0&border_color=1e293b" width="100%" alt="Top Languages" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=vthz&bg_color=0b0e14&color=e2e8f0&line=00e5ff&point=00e5ff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
